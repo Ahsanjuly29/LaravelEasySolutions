@@ -1,4 +1,4 @@
-<h2 style="color:#C00;">How To remove '/public' from 'Url'</h2>
+<h2 style="color:red">How To remove '/public' from 'Url'</h2>
 <h5 style="color:yellow;">#laravel(6 - upper version(old versions not sure! ))...</h5>
 
 <ul>
