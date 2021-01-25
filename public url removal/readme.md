@@ -6,7 +6,7 @@
 	<li>'unzip' your 'Laravel' project here Or use command:git pull.</li>
 	<li>Then, create an '.htaccess'file and write the below code:</li>
 </ul>
-<blockquote>
+```
  RewriteEngine On </br>
  RewriteCond %{REQUEST_FILENAME} -d [OR] </br>
  RewriteCond %{REQUEST_FILENAME} -f </br>
@@ -16,7 +16,7 @@
  RewriteCond %{REQUEST_FILENAME} !-d </br>
  RewriteCond %{REQUEST_FILENAME} !-f </br>
  RewriteRule ^ server.php </br>
-</blockquote>
+```
 
 <p><strong><span style="color:green;">Yeah!</span> Problem Solved. Now your Project is running on your domain.extention</strong></p>
 <h2> #HappyCoding </h2>
