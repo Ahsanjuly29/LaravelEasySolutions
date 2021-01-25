@@ -1,4 +1,4 @@
-<h2 style="color:#C00;">How To remove '/public' from 'Url'</h2>
+<h2 color="red">How To remove '/public' from 'Url'</h2>
 <h5 style="color:yellow;">#laravel(6 - upper version(old versions not sure! ))...</h5>
 
 <ul>
@@ -20,4 +20,4 @@
 
 <p><strong><span style="color:green;">Yeah!</span> Problem Solved. Now your Project is running on your domain.extention</strong></p>
 <h2> #HappyCoding </h2>
-<img src="Screenshot_2.png" width="70">
+<img src="Screenshot_2.png">
