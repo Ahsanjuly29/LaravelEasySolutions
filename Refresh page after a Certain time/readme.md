@@ -8,7 +8,7 @@
 	<p>Just simply Run This Code and set time To your Projects Head This will automatically Refresh as your set Time.</p>
 	<blockquote>Example: 
 		<b>
-			<<span>META HTTP-EQUIV="Refresh" CONTENT="120"</span>>
+		  <<span>META HTTP-EQUIV="Refresh" CONTENT="120"</span>>
 		</b>
 	</blockquote>
 </div>
