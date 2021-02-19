@@ -8,6 +8,9 @@
 </p>
 <p>
 	<strong>note:</strong>
-	no need to use '' for numbers </br> ex. Hash:make(<strong>12345678</strong>)
+	no need to use '' for numbers </br>
+	<blockquote>
+		ex. Hash:make(<strong>12345678</strong>)
+	</blockquote>
 </p>
 </div>
