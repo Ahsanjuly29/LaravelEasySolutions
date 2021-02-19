@@ -19,5 +19,5 @@
 	Example-2:
 	<blockquote>Schema::disableForeignKeyConstraints();</blockquote>
 </p>
-<img href="readme.png" width="100%">
+<img src="readme.png" width="100%">
 </div>
