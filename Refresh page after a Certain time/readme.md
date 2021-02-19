@@ -5,7 +5,6 @@
 			<<span>META HTTP-EQUIV="Command" CONTENT="Time in seconds"</span>>
 		</b>
 	</blockquote>
-
 	<p>Just simply Run This Code and set time To your Projects Head This will automatically Refresh as your set Time.</p>
 	<blockquote>Example: 
 		<b>

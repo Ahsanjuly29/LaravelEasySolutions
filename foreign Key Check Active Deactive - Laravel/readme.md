@@ -9,8 +9,8 @@
 	Example-2:
 <blockquote>Schema::disableForeignKeyConstraints();</blockquote>
 </p>
-<h4>Write Your Database Opretions here like 'drop Table' Then</h4>
-<h3>How To Enable Foreign Key Check While Migration : Rollback ?</h3>
+<h4>Write Your Database Opretions here like 'drop Table' After That </h4>
+<h3>Last: Enable Foreign Key Check While Migration</h3>
 <p>
 	Example-1: 
 <blockquote>DB::statement('SET FOREIGN_KEY_CHECKS=1');</blockquote>

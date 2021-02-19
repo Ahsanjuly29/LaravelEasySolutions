@@ -16,5 +16,4 @@
 </blockquote>
 <p>This will be looking Like:</p>
 <img src="readme2.png" alt="" width="100%"/>
-<img src="readme.png" alt="" width="100%"/>
 </div>
